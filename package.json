@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/joshuawarnock/MST/issues"
   },
-  "homepage": "https://github.com/joshuawarnock/MST#readme"
+  "homepage": "https://github.com/joshuawarnock/MST#readme",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-minify-html": "^1.0.5",
+    "gulp-nodemon": "^2.0.6",
+    "path": "^0.12.7"
+  }
 }
