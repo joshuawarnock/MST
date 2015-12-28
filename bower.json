@@ -1,0 +1,18 @@
+{
+  "name": "mst",
+  "description": "MST Single Page Application",
+  "main": "index.js",
+  "authors": [
+    "Joshua Warnock"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/joshuawarnock/MST",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

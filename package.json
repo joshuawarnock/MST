@@ -1,0 +1,19 @@
+{
+  "name": "mst",
+  "version": "1.0.0",
+  "description": "MST Single Page Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuawarnock/MST.git"
+  },
+  "author": "Joshua Warnock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuawarnock/MST/issues"
+  },
+  "homepage": "https://github.com/joshuawarnock/MST#readme"
+}
